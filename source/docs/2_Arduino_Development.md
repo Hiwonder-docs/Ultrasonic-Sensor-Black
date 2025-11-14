@@ -2,7 +2,7 @@
 
 <img class="common_img" src="../_static/media/section_2/media/image3.png" style="width:500px" />
 
-# 2.1 Getting Started
+## 2.1 Getting Started
 
 ### 2.1.1 Wiring Instruction
 

@@ -8,7 +8,7 @@
 
 This section uses DuPont wires to connect ultrasonic sensor. For wiring instructions, refer to the figure below:
 
-<img class="common_img" src="../_static/media/section_4/media/image4.png" style="width:500px" />
+<img class="common_img" src="../_static/media/section_4/media/image4.png" style="width:700px" />
 
 > [!NOTE]
 >
